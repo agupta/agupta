@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anish.</h1>
-<h3 align="center">I've been coding since I was a child, you can find some recent projects here.</h3>
+<h3 align="center">I've been coding since I was little, you can find some recent projects here.</h3>
 
 <p align="left">Contact me through my <a href="https://linkedin.com/in/anishgupta2" target="blank">LinkedIn</a>.</p>
 
