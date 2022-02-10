@@ -3,7 +3,7 @@
 
 <p align="left">While my background is in mathematics, I've got a good understanding of computer science fundamentals. I'm currently focusing on learning as much machine learning and statistics as I can.</p>
 
-<p align="left">You can find my CV and a form to contact me on <a href="https://anishgupta.xyz/">my personal website</a>. You can also contact me through my <a href="https://linkedin.com/in/anishgupta2" target="blank">LinkedIn</a>.</p>
+<p align="left">You can find my CV on <a href="https://anishgupta.xyz/">my personal website</a>. You can contact me through my <a href="https://linkedin.com/in/anishgupta2" target="_blank">LinkedIn</a> or <a href="https://forms.gle/LEJ6yC8q7G7ZJpJN9" target="_blank">this form</a>.</p>
 
 <h3 align="left">My favourite tools and technologies:</h3>
 <p align="left">
