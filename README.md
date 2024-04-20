@@ -1,8 +1,3 @@
-<h1 align="center">Hi, I'm Anish.</h1>
-<h3 align="center">I've been coding since I was little, you can find some recent projects here.</h3>
-
-<p align="left">While my background is in mathematics, I've got a good understanding of computer science fundamentals. I'm currently focusing on learning as much machine learning and statistics as I can.</p>
-
 <p align="left">You can contact me through my <a href="https://linkedin.com/in/anishgupta2" target="_blank">LinkedIn</a> or <a href="https://forms.gle/LEJ6yC8q7G7ZJpJN9" target="_blank">this form</a>. Get in touch if you want my CV.</p>
 
 <h3 align="left">My favourite tools and technologies:</h3>
